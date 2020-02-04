@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Hello World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Feb 2020 11:39:11 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 11:45:30 +0800</lastBuildDate>
     
 	<atom:link href="https://swagcode-io.github.io/hugo-github-pages-template/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第一天</title>
+      <link>https://swagcode-io.github.io/hugo-github-pages-template/posts/%E7%AC%AC%E4%B8%80%E5%A4%A9/</link>
+      <pubDate>Tue, 04 Feb 2020 11:45:30 +0800</pubDate>
+      
+      <guid>https://swagcode-io.github.io/hugo-github-pages-template/posts/%E7%AC%AC%E4%B8%80%E5%A4%A9/</guid>
+      <description>第一天 吃葡萄不吐葡萄皮</description>
+    </item>
     
     <item>
       <title>My First Post</title>
