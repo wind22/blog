@@ -1,4 +1,4 @@
-baseURL = "https://swagcode-io.github.io/hugo-github-pages-template/"
+baseURL = "https://wind22.github.io/blog"
 languageCode = "en-us"
 title = "Hello World"
 theme = "ananke"
